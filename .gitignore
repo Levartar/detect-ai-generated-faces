@@ -1,0 +1,17 @@
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.idea
+
+#Image Datasets
+Datasets/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
